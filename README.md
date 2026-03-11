@@ -123,8 +123,8 @@ RETURN
 
 **Héctor** — Ingeniero en Logística | Analista de datos
 
-- LinkedIn: *(agrega tu enlace)*
-- GitHub: *(agrega tu enlace)*
+- LinkedIn: https://www.linkedin.com/in/h%C3%A9ctor-alvarado-47672419b/
+- GitHub: https://github.com/hector216
 
 ---
 
