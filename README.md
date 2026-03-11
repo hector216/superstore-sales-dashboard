@@ -6,9 +6,7 @@ Dashboard interactivo de análisis de ventas para una cadena de retail, construi
 
 ## 📸 Vista previa
 
-> *(Agrega aquí una captura de pantalla de tu dashboard)*
->
-> ![Dashboard Preview](images/dashboard_preview.png)
+> ![Dashboard Preview](images/Dasboard%20SalesStore.png)
 
 ## 🎯 Objetivo
 
