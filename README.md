@@ -111,6 +111,7 @@ RETURN
 - La ganancia creció un **48.4%** vs el año anterior, indicando mejora en rentabilidad.
 - El margen general se mantiene en **12.47%**.
 - Se identifica estacionalidad con picos de ventas en los últimos meses de cada año.
+- Los picos de ventas en Q4 sugieren una fuerte dependencia de temporadas como Black Friday y Navidad, lo cual representa un riesgo si no se diversifica la estrategia comercial.
 
 ## 🚀 Cómo usar este proyecto
 
@@ -121,7 +122,14 @@ RETURN
 
 ## 👤 Autor
 
-**Héctor** — Ingeniero en Logística | Analista de datos
+**Héctor** — Ingeniero en Logística (ESPOL) | En transición hacia Data Analytics & BI
+
+Con 4 años de experiencia en logística y cadena de suministro en el sector retail, 
+actualmente estoy enfocado en construir mi carrera en análisis de datos y Business Intelligence. 
+Este es mi primer proyecto de portafolio, combinando mi conocimiento del negocio retail 
+con herramientas de visualización de datos.
+
+Actualmente aprendiendo: Python | Data Science | Power BI avanzado
 
 - LinkedIn: https://www.linkedin.com/in/h%C3%A9ctor-alvarado-47672419b/
 - GitHub: https://github.com/hector216
